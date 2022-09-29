@@ -18,7 +18,7 @@ You should have received a copy of the GNU General Public License along
 with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-__version__ = "1.0.9"
+#__version__ = "1.0.9"
 
 import pygame
 import sys, os
@@ -451,7 +451,8 @@ def load_images():
         subdirectory = os.path.join(Config.data_dir, directory, Config.size_dir)
 
         if not os.path.exists(subdirectory):
-            raise ConfigError(f"Images directory {subdirectory} not present: please download the full game or prepare the images as documented.")
+            raise ConfigError(
+                "Images directory %s not present: please download the full game or prepare the images as documented." % subdirectory)
 
         pattern = os.path.join(subdirectory, "*" + os.extsep + "png")
         for filename in glob(pattern):
@@ -463,14 +464,15 @@ def load_music():
     subdirectory = os.path.join(Config.data_dir, "music")
 
     if not os.path.exists(subdirectory):
-        raise ConfigError(f"Music directory {subdirectory} not present: please download the full game or prepare the music as documented.")
+        raise ConfigError(
+            "Music directory %s not present: please download the full game or prepare the music as documented." % subdirectory)
 
     for music_type in Config.music_types:
         pattern = os.path.join(subdirectory, "*" + os.extsep + music_type)
         for filename in glob(pattern):
             path, ext = os.path.splitext(filename)
             path, name = os.path.split(path)
-            if name not in Config.music.keys():
+            if not Config.music.get(name):
                 Config.music[name] = []
             Config.music[name].append(filename)
 
