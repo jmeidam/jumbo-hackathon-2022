@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="100.00000mm"
+   height="100.00000mm"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/home/paulb/Software/Python/Rally7/data/templates"
+   sodipodi:docname="bang.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6987502"
+     inkscape:cx="141.73228"
+     inkscape:cy="141.73228"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingx="2.5000000mm"
+     gridspacingy="2.5000000mm"
+     inkscape:window-width="1272"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           id="license1061"
+           rdf:resource="http://creativecommons.org/licenses/GPL/3.0/" />
+        <dc:title
+           id="title1069">Flag-S Template</dc:title>
+        <dc:creator
+           id="creator1071">
+          <cc:Agent
+             id="Agent1072">
+            <dc:title
+               id="title1073">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights
+           id="rights1075">
+          <cc:Agent
+             id="Agent1076">
+            <dc:title
+               id="title1077">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher
+           id="publisher1079">
+          <cc:Agent
+             id="Agent1080">
+            <dc:title
+               id="title1081">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language
+           id="language1083">en-GB</dc:language>
+        <dc:date
+           id="date1085">2006-04-22</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/3.0/"
+         id="License1062">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction"
+           id="permits1063" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution"
+           id="permits1064" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice"
+           id="requires1065" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
+           id="permits1066" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike"
+           id="requires1067" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode"
+           id="requires1068" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#f03200;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.25000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;"
+       d="M 150.43430,88.426410 L 185.86737,17.560268 L 221.30044,97.284678 L 309.88312,44.135071 L 274.45005,132.71775 L 345.31619,159.29255 L 274.45005,185.86735 L 345.31619,239.01696 L 283.30832,230.15869 L 301.02485,318.74137 L 221.30044,247.87523 L 185.86737,336.45790 L 159.29257,265.59176 L 97.284696,318.74137 L 106.14296,239.01696 L 17.560286,230.15869 L 79.568160,185.86735 L 8.7020186,132.71775 L 88.426428,115.00121 L 79.568160,44.135071 L 150.43430,88.426410 z "
+       id="path3305"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g1183"
+     transform="matrix(0.500000,0.000000,0.000000,0.500000,302.6864,210.8615)">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M -481.35706,3.4738146 L -481.35706,-155.97501 L -410.49092,-155.97501 L -392.77438,-138.25847 L -392.77438,-93.967125 L -410.49092,-76.250595 M -481.35706,-76.250595 L -410.49092,-76.250595 L -392.77438,-58.534065 L -392.77438,-14.242725 L -410.49092,3.4738146 L -481.35706,3.4738146"
+       id="path1184"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g1278"
+     transform="matrix(0.500000,0.000000,0.000000,0.500000,274.8958,242.8207)">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M -213.17743,-58.672925 L -213.17743,-200.40522 L -230.89397,-218.12176 L -284.04358,-218.12176 L -301.76011,-200.40522 L -301.76011,-58.672925"
+       id="path10002"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M -301.76011,-138.39734 L -213.17743,-138.39734"
+       id="path2162"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g1968"
+     transform="matrix(0.500000,0.000000,0.000000,0.500000,65.07642,-25.35897)">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 241.89440,475.91475 L 241.89440,316.46593 L 330.47707,475.91475 L 330.47707,316.46594"
+       id="path1969"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g2061"
+     transform="matrix(0.500000,0.000000,0.000000,0.500000,155.3960,132.5845)">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 273.85366,18.295535 L 256.13713,0.57900459 L 202.98752,0.57900459 L 185.27099,18.295536 L 185.27099,142.31129 L 202.98752,160.02783 L 256.13713,160.02783 L 273.85366,142.31129 L 273.85366,80.303415 L 238.42059,80.303415"
+       id="path2062"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="40.000000mm"
+   height="60.000000mm"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/home/paulb/Software/Python/Rally7/data/templates/characters"
+   sodipodi:docname="O.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6987502"
+     inkscape:cx="141.73228"
+     inkscape:cy="141.73227"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingx="2.5000000mm"
+     gridspacingy="2.5000000mm"
+     inkscape:window-width="1272"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           id="license1061"
+           rdf:resource="http://creativecommons.org/licenses/GPL/3.0/" />
+        <dc:title
+           id="title1069">Flag-S Template</dc:title>
+        <dc:creator
+           id="creator1071">
+          <cc:Agent
+             id="Agent1072">
+            <dc:title
+               id="title1073">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights
+           id="rights1075">
+          <cc:Agent
+             id="Agent1076">
+            <dc:title
+               id="title1077">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher
+           id="publisher1079">
+          <cc:Agent
+             id="Agent1080">
+            <dc:title
+               id="title1081">Paul Boddie</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language
+           id="language1083">en-GB</dc:language>
+        <dc:date
+           id="date1085">2006-04-22</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/3.0/"
+         id="License1062">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction"
+           id="permits1063" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution"
+           id="permits1064" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice"
+           id="requires1065" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
+           id="permits1066" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike"
+           id="requires1067" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode"
+           id="requires1068" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#ff0000;stroke-width:21.259844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 115.15748,44.291333 L 115.15748,168.30708 L 97.440945,186.02362 L 44.291339,186.02362 L 26.574803,168.30708 L 26.574803,44.291333 L 44.291339,26.574797 L 97.440945,26.574797 L 115.15748,44.291333"
+       id="path10002"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rally 7
+GenericName=Arcade Game
+Type=Application
+Categories=Application;Game;ArcadeGame;
+Terminal=0
+Exec=rally7
+Icon=rally7-icon
+Comment=A classic rally driving game from Infukor

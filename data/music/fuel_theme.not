@@ -1,0 +1,28 @@
+header
+score
+	pedstyle = pedstar
+	staffs = 1
+	time = 4/4
+score
+staff 1
+// overlength = 60
+// underlength = 60
+// lyricsdist = 60
+	clef=treble
+	key = 0&
+music
+midi 1 1: 0 "channel=1"; 0 "program=7";
+midi 1 1: 0 "parameter=7,80";
+midi 1 1: 0 "parameter=93,0";
+midi 1 1: 0 "parameter=91,0";
+midi 1 1: 0 "parameter=10,64";
+1 1: 8g bm; 8e; 8d; 8g ebm; 8f; 8d; 4c; 
+midi all: 1 "tempo=150";
+rom above all: 1 "( \(sm4n) = 150 )";
+bar // 1
+1 1: 8c bm; 8b&-; 8g-; 8c ebm; 8b&- bm; 8g- ebm; 4g-; 
+bar // 2
+1 1: 8c bm; 8b&-; 8g-; 8f- ebm; 8g-; 8a-; 8b-; 8c; 
+bar // 3
+1 1: 8d bm; 8g; 8d ebm; 8c; 2bn-; 
+repeatend // 4
